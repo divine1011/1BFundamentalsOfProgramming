@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT.iml" filepath="$PROJECT_DIR$/ASSIGNMENT.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/Decision Control Structure.iml" filepath="$PROJECT_DIR$/Decision Control Structure.iml" />
 >>>>>>> bee606d674f1b40089f457ac106583d5e2b7a31e
+=======
+      <module fileurl="file://$PROJECT_DIR$/decidion control structure.iml" filepath="$PROJECT_DIR$/decidion control structure.iml" />
+>>>>>>> 52305a4bf1f6ead1cd2b354463b69b7dec202daf
     </modules>
   </component>
 </project>
