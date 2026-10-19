@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ASSIGNMENT.iml" filepath="$PROJECT_DIR$/ASSIGNMENT.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Decision Control Structure.iml" filepath="$PROJECT_DIR$/Decision Control Structure.iml" />
+>>>>>>> bee606d674f1b40089f457ac106583d5e2b7a31e
     </modules>
   </component>
 </project>

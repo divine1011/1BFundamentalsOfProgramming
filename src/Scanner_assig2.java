@@ -11,7 +11,7 @@ public class Scanner_assig2 {
             System.out.print("Enter your hourly pay: ");
             hourlyPayRate = readSalary.nextDouble();
 
-            System.out.print("Enter your hours worked: ");
+            System.out.print("Enter your hours worked: ");git
             hoursWorked = readSalary.nextDouble();
 
             double grossPay = hourlyPayRate * hoursWorked;
